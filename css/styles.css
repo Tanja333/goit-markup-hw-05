@@ -504,7 +504,7 @@
 }
 .subscribe-form {
   display: flex;
-  gap 24px;
+  gap: 24px;
 }
 .subscribe-form-label-input {
   width: 264px;
